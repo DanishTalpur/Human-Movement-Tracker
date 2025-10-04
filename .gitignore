@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+.env.local
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ultralytics / YOLO runs and weights
+runs/
+**/weights/*.pt
+*.pt
+
+# Data & datasets
+People-Detection-10/
+# If you want to keep dataset YAML only:
+!People-Detection-10/data.yaml
+
+# Media outputs
+*.avi
+*.mp4
+*.mov
+*.png
+*.jpg
+
+# Allow videos folder for sample videos
+!videos/
+!videos/*.mp4
+!videos/*.avi
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+
+# Misc
+*.zip
