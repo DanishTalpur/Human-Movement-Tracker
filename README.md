@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Bug Reports**: [GitHub Issues](https://github.com/yourusername/human-movement-tracker/issues)
 - **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/human-movement-tracker/discussions)
-- **Contact**: [your-email@example.com](mailto:your-email@example.com)
+- **Contact**: [danishshuja11@gmail.com](mailto:danishshuja11@gmail.com)
 
 ---
 
